@@ -9,5 +9,5 @@ public class UserInput {
         System.out.println("Welcome " + name + "!");
         System.out.println("Your age is " + age);
         sc.close();
-    }
+    }s
 }
